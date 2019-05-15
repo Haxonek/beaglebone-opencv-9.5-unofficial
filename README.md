@@ -1,3 +1,15 @@
+# Repo Notes
+
+This is not an official repo and probably isn't useful to anyone. There reason I have this is because compiling opencv on a beaglebone takes upwards of ten hours, and by uploading this I can pull it down again if I never need to reinstall it without waiting ~ten hours. to install just run the following commands:
+
+```
+cd build
+sudo make install
+```
+
+And that's it. Check the official website for other packages you may need, glhf
+
+
 ## OpenCV: Open Source Computer Vision Library
 
 ### Resources
